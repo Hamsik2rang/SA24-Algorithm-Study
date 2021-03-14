@@ -1,7 +1,8 @@
 # Python 학습 페이지
 <p align="center">
-    <img src="./Images/logo.png" style="zoom: 33%;"
+    <img src="./Images/logo.png" style="zoom: 15%;"
 </p>
+
 
 
 
