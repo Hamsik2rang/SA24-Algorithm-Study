@@ -4,11 +4,11 @@ Striking Arts 24기 알고리즘 스터디 페이지입니다.
 
 각 언어의 문법 학습을 원하시는 분은 아래 링크를 클릭해 학습 페이지로 이동할 수 있습니다.
 
-*   [**C**](./Language_Study/C)
-*   [**C++**](./Language_Study/C++)
-*   [**C#**](./Language_Study/C#)
-*   [**Java**](./Language_Study/JAVA)
-*   [**Python**](./Language_Study/Python)
+*   [**C**](https://github.com/Hamsik2rang/SA24-Algorithm-Study/tree/main/Language_Study/C)
+*   [**C++**](https://github.com/Hamsik2rang/SA24-Algorithm-Study/tree/main/Language_Study/C%2B%2B)
+*   [**C#**](https://github.com/Hamsik2rang/SA24-Algorithm-Study/tree/main/Language_Study/C%23)
+*   [**Java**](https://github.com/Hamsik2rang/SA24-Algorithm-Study/tree/main/Language_Study/JAVA)
+*   [**Python**](https://github.com/Hamsik2rang/SA24-Algorithm-Study/tree/main/Language_Study/Python)
 
 
 
