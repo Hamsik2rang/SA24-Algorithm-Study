@@ -2,6 +2,16 @@
 Striking Arts 24기 알고리즘 스터디 페이지입니다.  
 스터디를 진행하기 전, [**스터디 Wiki**](https://github.com/Hamsik2rang/SA24-Algorithm-Study/wiki)를 반드시 참고해주세요!  
 
+각 언어의 문법 학습을 원하시는 분은 아래 링크를 클릭해 학습 페이지로 이동할 수 있습니다.
+
+*   [**C**](./Language_Study/C)
+*   [**C++**](./Language_Study/C++)
+*   [**C#**](./Language_Study/C#)
+*   [**Java**](./Language_Study/Java)
+*   [**Python**](./Language_Study/Python)
+
+
+
 ## 0주차(3/15 ~ 3/21)
 
 |   날짜   |            브론즈            |             실버             |             골드             |
