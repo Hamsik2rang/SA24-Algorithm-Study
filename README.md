@@ -7,7 +7,7 @@ Striking Arts 24기 알고리즘 스터디 페이지입니다.
 *   [**C**](./Language_Study/C)
 *   [**C++**](./Language_Study/C++)
 *   [**C#**](./Language_Study/C#)
-*   [**Java**](./Language_Study/Java)
+*   [**Java**](./Language_Study/JAVA)
 *   [**Python**](./Language_Study/Python)
 
 
