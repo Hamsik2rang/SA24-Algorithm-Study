@@ -1,6 +1,7 @@
 # SA24-Algorithm-Study
 Striking Arts 24기 알고리즘 스터디 페이지입니다.  
 스터디를 진행하기 전, [**스터디 Wiki**](https://github.com/Hamsik2rang/SA24-Algorithm-Study/wiki)를 반드시 참고해주세요!  
+현재 본인이 모은 :star:의 갯수를 확인하고 싶다면 [**스코어보드**](https://github.com/Hamsik2rang/SA24-Algorithm-Study/wiki/%EC%8A%A4%EC%BD%94%EC%96%B4%EB%B3%B4%EB%93%9C)를 확인하세요!
 
 각 언어의 문법 학습을 원하시는 분은 아래 링크를 클릭해 학습 페이지로 이동할 수 있습니다.
 
