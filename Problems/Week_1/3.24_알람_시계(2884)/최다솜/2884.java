@@ -12,7 +12,6 @@ public class Bronze {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
         StringBuilder sb = new StringBuilder();
-
         st = new StringTokenizer(br.readLine());
 
         int hour = Integer.parseInt(st.nextToken());
