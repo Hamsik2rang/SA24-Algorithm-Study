@@ -12,6 +12,7 @@ public class Silver {
 
         int count = Integer.parseInt(br.readLine());
         for (int i = 0; i < count; i++) {
+
             String str = br.readLine();
             char[] stack = new char[50];
             int index = 0;
