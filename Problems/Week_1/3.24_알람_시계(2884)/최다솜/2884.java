@@ -27,6 +27,7 @@ public class Bronze {
         minute = minute % 60;
 
         System.out.println(hour + " " + minute);
+
         System.out.println(sb);
         br.close();
     }
