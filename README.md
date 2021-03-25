@@ -29,7 +29,7 @@ Striking Arts 24기 알고리즘 스터디 페이지입니다.
 | 3/22(월) |      [개](https://acmicpc.net/problem/10172)      |     [스택](https://acmicpc.net/problem/10828)     |        [탑](https://acmicpc.net/problem/2493)        |
 | 3/23(화) |    [나머지](https://acmicpc.net/problem/10430)    | [균형잡힌 세상](https://acmicpc.net/problem/4949) | [옥상 정원 꾸미기](https://acmicpc.net/problem/6198) |
 | 3/24(수) |   [알람 시계](https://acmicpc.net/problem/2884)   |     [괄호](https://acmicpc.net/problem/9012)      |   [후위 표기식](https://acmicpc.net/problem/1918)    |
-| 3/25(목) | [초콜릿 자르기](https://acmicpc.net/problem/2163) |   [쇠막대기](https://acmicpc.net/problem/10779)   |      [PPAP](https://acmicpc.net/problem/16120)       |
+| 3/25(목) | [초콜릿 자르기](https://acmicpc.net/problem/2163) |   [쇠막대기](https://acmicpc.net/problem/10799)   |      [PPAP](https://acmicpc.net/problem/16120)       |
 | 3/26(금) | [인공지능 시계](https://acmicpc.net/problem/2530) |   [스택 수열](https://acmicpc.net/problem/1874)   |    [정렬 게임](https://acmicpc.net/problem/13415)    |
 
 ## 2주차(3/29 ~ 4/2)
