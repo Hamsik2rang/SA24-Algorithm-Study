@@ -35,9 +35,19 @@ Striking Arts 24기 알고리즘 스터디 페이지입니다.
 
 ## 2주차(3/29 ~ 4/2)
 
+|   날짜   |                       브론즈                       |                           실버                           |                             골드                             |
+| :------: | :------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------------: |
+| 3/29(월) | [X보다 작은 수](https://acmicpc.net/problem/10871) |         [큐](https://acmicpc.net/problem/10845)          |            [뱀](https://acmicpc.net/problem/3190)            |
+| 3/30(화) |  [별 찍기 - 2](https://acmicpc.net/problem/2439)   |         [덱](https://acmicpc.net/problem/10866)          | [Condition of deep sleep](https://acmicpc.net/problem/11577) |
+| 3/31(수) |   [완전제곱수](https://acmicpc.net/problem/1977)   |     [회전하는 큐](https://acmicpc.net/problem/1021)      |      [독특한 계산기](https://acmicpc.net/problem/19591)      |
+| 4/1(목)  | [더하기 사이클](https://acmicpc.net/problem/1110)  | [도키도키 간식드리미](https://acmicpc.net/problem/12789) |        [좋은 친구](https://acmicpc.net/problem/3078)         |
+| 4/2(금)  |      [상수](https://acmicpc.net/problem/2908)      |    [숫자 할리갈리](https://acmicpc.net/problem/20923)    |          [나룻배](https://acmicpc.net/problem/2065)          |
+
+
+
+## 3주차(4/5 ~ 4/9)
+
 | 날짜 | 브론즈 | 실버 | 골드 |
 | :--: | :----: | :--: | :--: |
 |      |        |      |      |
-
-
 
