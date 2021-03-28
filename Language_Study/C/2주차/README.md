@@ -8,17 +8,14 @@
 2.  **조건문(Conditional Statemen)**
     1.  if
         1.  if의 사용법과 의미
-        2.  중첩 if
-        3.  중첩 if를 대체하는 논리 연산자
-        4.  다중 if
-        5.  if ~ else
-        6.  if ~ else if ~ else
-        7.  if ~ else if ~ else 의 동작 원리
+        2.  if ~ else if
+        3.  if ~ else
+        4.  if ~ else if ~ else
+        5.  중첩 if
     2.  switch
         1.  switch의 사용법과 의미
         2.  break와 default
         3.  Fallthrough(의도적인 non-breaking)
-        4.  switch의 동작 원리
 3.  **반복문(Iteration Statement)**
     1.  블록(Block)과 범위
     2.  for
