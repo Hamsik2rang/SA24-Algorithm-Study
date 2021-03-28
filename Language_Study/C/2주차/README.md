@@ -5,7 +5,7 @@
 1.  **개요**
     1.  흐름 제어(Flow Control)란?
     2.  C의 흐름 제어 문법 살펴보기
-2.  **조건문(Conditional Statement)**
+2.  **조건문(Conditional Statemen)**
     1.  if
         1.  if의 사용법과 의미
         2.  중첩 if
@@ -17,12 +17,9 @@
     2.  switch
         1.  switch의 사용법과 의미
         2.  break와 default
-        3.  fallthrough(의도적인 non-breaking)
+        3.  Fallthrough(의도적인 non-breaking)
         4.  switch의 동작 원리
-    3.  goto
-        1.  goto의 사용법과 의미
-        2.  사용을 권장하지 않는 이유
-3.  **반복문(Loop Statements)**
+3.  **반복문(Iteration Statement)**
     1.  블록(Block)과 범위
     2.  for
         1.  for의 사용법과 의미
@@ -39,16 +36,14 @@
         2.  do-while의 구성 요소
         3.  do-while의 동작 원리와 순서
     5.  무한 루프(Infinity Loop)
-4.  **분기문(Branch Statements)**
+4.  **분기문(Branch Statement)**
     1.  분기문의 역할과 필요한 이유
     2.  break
     3.  continue
     4.  return
-5.  **알고 계셨나요?🤓(부록)**
-
-1.  컴퓨터에서 음수를 표현하는 세 가지 방법
-2.  부동 소수 표기법
-3.  다양한 코딩 스타일과 코드 컨벤션(Code Convention)
+    5.  goto
+        1.  goto의 사용법과 의미
+        2.  사용을 권장하지 않는 이유
 
 ---
 
