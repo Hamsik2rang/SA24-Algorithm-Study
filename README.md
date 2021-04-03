@@ -48,7 +48,7 @@ Striking Arts 24기 알고리즘 스터디 페이지입니다.
 |  날짜   |                      브론즈                       |                          실버                          |                             골드                             |
 | :-----: | :-----------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: |
 | 4/5(월) |  [숫자의 개수](https://acmicpc.net/problem/2577)  |     [숫자 카드](https://acmicpc.net/problem/10815)     |           [용액](https://acmicpc.net/problem/2467)           |
-| 4/6(화) |    [OX퀴즈](https://acmicpc.net/problem/8958)     | [IF문 좀 대신 써줘](https://acmicpc.net/problem/19637) |       [민호와 강호](https://acmicpc.net/problem/2467)        |
+| 4/6(화) |    [OX퀴즈](https://acmicpc.net/problem/8958)     | [IF문 좀 대신 써줘](https://acmicpc.net/problem/19637) |       [민호와 강호](https://acmicpc.net/problem/11662)       |
 | 4/7(수) | [아스키 코드](https://acmicpc.net/problem/11654)  |    [랜선 자르기](https://acmicpc.net/problem/1654)     | [흩날리는 시험지 속에서 내 평점이 느껴진거야](https://acmicpc.net/problem/17951) |
 | 4/8(목) |   [단어 공부](https://acmicpc.net/problem/1157)   |        [게임](https://acmicpc.net/problem/1072)        | [가장 긴 증가하는 부분 수열 2](https://acmicpc.net/problem/12015) |
 | 4/9(금) | [평균은 넘겠지](https://acmicpc.net/problem/4344) |     [기타 레슨](https://acmicpc.net/problem/2343)      |      [문자열과 쿼리](https://acmicpc.net/problem/13713)      |
