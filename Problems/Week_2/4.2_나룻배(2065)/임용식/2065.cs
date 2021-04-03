@@ -46,8 +46,7 @@ namespace AlgoCSharp
                         capacity--;
                     }
                 }
-                // There is no Passenger in current Anchorage, but next Passenger's arrival time is faster then Opposite one.
-                // Do Nothing. Just Move the boat.
+                // When There is no Passenger in current Anchorage, but next Passenger's arrival time is faster then Opposite one.
                 else if (q[1 - anchor].Count == 0 || q[1 - anchor].Count != 0 && q[anchor].Count != 0 && (q[anchor].Peek().Key < q[1 - anchor].Peek().Key))
                 {
                     time = q[anchor].Peek().Key;
