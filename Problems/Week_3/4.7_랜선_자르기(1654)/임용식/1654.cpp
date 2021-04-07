@@ -18,15 +18,15 @@ int main()
 
 	while (minLength <= maxLength)
 	{
-		int64_t cuttedLanCount = 0;
+		int64_t cutLanCount = 0;
 		int64_t cutPoint = (minLength + maxLength) / 2;
 
 		for (const auto& i : lan)
 		{
-			cuttedLanCount += i/cutPoint;
+			cutLanCount += i/cutPoint;
 		}
 
-		if (cuttedLanCount >= n)
+		if (cutLanCount >= n)
 		{
 			minLength = cutPoint + 1;
 		}
