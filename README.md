@@ -53,7 +53,7 @@ Striking Arts 24기 알고리즘 스터디 페이지입니다.
 | 4/8(목) |   [단어 공부](https://acmicpc.net/problem/1157)   |        [게임](https://acmicpc.net/problem/1072)        | [가장 긴 증가하는 부분 수열 2](https://acmicpc.net/problem/12015) |
 | 4/9(금) | [평균은 넘겠지](https://acmicpc.net/problem/4344) |     [기타 레슨](https://acmicpc.net/problem/2343)      |      [문자열과 쿼리](https://acmicpc.net/problem/13713)      |
 
-## 4주차(미정)
+## 4주차(4/26 ~ 4/30)
 
 | 날짜 | 브론즈 | 실버 | 골드 |
 | ---- | ------ | ---- | ---- |
