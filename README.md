@@ -53,10 +53,20 @@ Striking Arts 24기 알고리즘 스터디 페이지입니다.
 | 4/8(목) |   [단어 공부](https://acmicpc.net/problem/1157)   |        [게임](https://acmicpc.net/problem/1072)        | [가장 긴 증가하는 부분 수열 2](https://acmicpc.net/problem/12015) |
 | 4/9(금) | [평균은 넘겠지](https://acmicpc.net/problem/4344) |     [기타 레슨](https://acmicpc.net/problem/2343)      |      [문자열과 쿼리](https://acmicpc.net/problem/13713)      |
 
-## 4주차(미정)
+## 4주차(4/26 ~ 4/30)
+
+|   날짜   |                         브론즈                         |                        실버                        |                         골드                         |
+| :------: | :----------------------------------------------------: | :------------------------------------------------: | :--------------------------------------------------: |
+| 4/26(월) |     [진법 변환](https://acmicpc.net/problem/2745)      |    [돌 게임](https://acmicpc.net/problem/9655)     | [가장 큰 정사각형](https://acmicpc.net/problem/1915) |
+| 4/27(화) |   [카이사르 암호](https://acmicpc.net/problem/5598)    | [1, 2, 3 더하기](https://acmicpc.net/problem/9095) |   [파일 합치기](https://acmicpc.net/problem/11066)   |
+| 4/28(수) |    [알파벳 개수](https://acmicpc.net/problem/10808)    |     [퇴사](https://acmicpc.net/problem/14501)      |      [합분해](https://acmicpc.net/problem/2225)      |
+| 4/29(목) | [과제 안 내신 분..?](https://acmicpc.net/problem/5597) |  [2xn 타일링](https://acmicpc.net/problem/11726)   |    [게임 개발](https://acmicpc.net/problem/1516)     |
+| 4/30(금) |     [셀프 넘버](https://acmicpc.net/problem/4673)      |  [포도주 시식](https://acmicpc.net/problem/2156)   |   [외판원 순회](https://acmicpc.net/problem/2098)    |
+
+## 5주차(미정)
 
 | 날짜 | 브론즈 | 실버 | 골드 |
-| ---- | ------ | ---- | ---- |
+| :--: | :----: | :--: | :--: |
 |      |        |      |      |
 
 
