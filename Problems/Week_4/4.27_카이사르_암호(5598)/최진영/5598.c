@@ -31,4 +31,5 @@ char anigma(char word)
 	{
 		result = result + 23;
 	}
+	return result;
 }
