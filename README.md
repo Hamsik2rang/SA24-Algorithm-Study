@@ -63,7 +63,17 @@ Striking Arts 24기 알고리즘 스터디 페이지입니다.
 | 4/29(목) | [과제 안 내신 분..?](https://acmicpc.net/problem/5597) |  [2xn 타일링](https://acmicpc.net/problem/11726)   |    [게임 개발](https://acmicpc.net/problem/1516)     |
 | 4/30(금) |     [셀프 넘버](https://acmicpc.net/problem/4673)      |  [포도주 시식](https://acmicpc.net/problem/2156)   |   [외판원 순회](https://acmicpc.net/problem/2098)    |
 
-## 5주차(미정)
+## 5주차(5/3 ~ 5/7)
+
+|  날짜   |                       브론즈                       |                             실버                             |                       골드                        |
+| :-----: | :------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
+| 5/3(월) |   [팩토리얼](https://acmicpc.net/problem/10872)    |       [계단 오르기](https://acmicpc.net/problem/2579)        |      [LCS](https://acmicpc.net/problem/9251)      |
+| 5/4(화) | [피보나치 수 5](https://acmicpc.net/problem/10870) |          [연속합](https://acmicpc.net/problem/1912)          | [줄어들지 않아](https://acmicpc.net/problem/2688) |
+| 5/5(수) |   [설탕 배달](https://acmicpc.net/problem/2839)    | [가장 긴 증가하는 부분 수열](https://acmicpc.net/problem/11053) | [동전 바꿔주기](https://acmicpc.net/problem/2624) |
+| 5/6(목) |     [BABBA](https://acmicpc.net/problem/9625)      | [가장 긴 감소하는 부분 수열](https://acmicpc.net/problem/11722) |  [커플 만들기](https://acmicpc.net/problem/1727)  |
+| 5/7(금) |  [타일 장식물](https://acmicpc.net/problem/13301)  |          [동물원](https://acmicpc.net/problem/1309)          | [코딩은 예쁘게](https://acmicpc.net/problem/2879) |
+
+## 6주차(미정)
 
 | 날짜 | 브론즈 | 실버 | 골드 |
 | :--: | :----: | :--: | :--: |
