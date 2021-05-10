@@ -73,11 +73,19 @@ Striking Arts 24기 알고리즘 스터디 페이지입니다.
 | 5/6(목) |     [BABBA](https://acmicpc.net/problem/9625)      | [가장 긴 감소하는 부분 수열](https://acmicpc.net/problem/11722) |  [커플 만들기](https://acmicpc.net/problem/1727)  |
 | 5/7(금) |  [타일 장식물](https://acmicpc.net/problem/13301)  |          [동물원](https://acmicpc.net/problem/1309)          | [코딩은 예쁘게](https://acmicpc.net/problem/2879) |
 
-## 6주차(미정)
+## 6주차(5/10 ~ 5/14)
+
+|   날짜   |                     브론즈                     |                          실버                          |                      골드                       |
+| :------: | :--------------------------------------------: | :----------------------------------------------------: | :---------------------------------------------: |
+| 5/10(월) | [손익분기점](https://acmicpc.net/problem/1712) |        [덩치](https://acmicpc.net/problem/7568)        |   [N-Queen](https://acmicpc.net/problem/9663)   |
+| 5/11(화) |    [벌집](https://acmicpc.net/problem/2292)    | [체스판 다시 칠하기](https://acmicpc.net/problem/1018) | [테트로미노](https://acmicpc.net/problem/14500) |
+| 5/12(수) |  [분수찾기](https://acmicpc.net/problem/1193)  |    [영화감독 숌](https://acmicpc.net/problem/1436)     |   [맞춰봐](https://acmicpc.net/problem/1248)    |
+| 5/13(목) |    [소수](https://acmicpc.net/problem/2581)    |   [차이를 최대로](https://acmicpc.net/problem/10819)   | [종이 조각](https://acmicpc.net/problem/14391)  |
+| 5/14(금) |    [터렛](https://acmicpc.net/problem/1002)    |  [팰린드롬 만들기](https://acmicpc.net/problem/1254)   |   [IQ Test](https://acmicpc.net/problem/1111)   |
+
+## 7주차(5/17 ~ 5/21)
 
 | 날짜 | 브론즈 | 실버 | 골드 |
 | :--: | :----: | :--: | :--: |
 |      |        |      |      |
-
-
 
