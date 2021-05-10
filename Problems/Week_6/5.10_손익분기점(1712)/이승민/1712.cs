@@ -16,11 +16,11 @@ namespace 백준1
             }
 
 
-            if((ABC[2] - ABC[1]) < 0 )
-            {
+            if((ABC[2] - ABC[1]) <= 0 )
+            { 
                 Console.WriteLine("-1");
             }
-            else
+            else if(ABC[2] != ABC[1])
             {
                 int a = ABC[0] / (ABC[2] - ABC[1]) + 1;
                 Console.WriteLine(a);
