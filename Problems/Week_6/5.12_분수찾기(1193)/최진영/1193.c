@@ -16,34 +16,37 @@ void fract(int a)
 	int mother=1, son=1;
 	for (int i = 1;; i++)
 	{
-		if (mother <= son)
+		if (mother > son)
 		{
 			mother = mother + 1;
 			for (int j = 0; mother > 1; j++)
 			{
-				printf("%d %d %d\n", mother, son, k);
-				mother=mother-1;
-				son=son+1;
-				k++;
+
+				mother = mother - 1;
 				if (k == a)
 				{
 					break;
 				}
+				son = son + 1;
+				k++;
+
 			}
 		}
-		else if (son > mother)
+		else if (mother <= son)
 		{
 			son = son + 1;
 			for (int l = 0; son > 1; l++)
 			{
-				printf("%d %d %d\n", mother, son, k);
-				mother=mother+1;
-				son=son-1;
-				k++;
+
+
+				son = son - 1;
 				if (k == a)
 				{
 					break;
 				}
+				mother = mother + 1;
+				k++;
+				
 			}
 		}
 		if (k == a)
