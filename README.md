@@ -85,6 +85,22 @@ Striking Arts 24기 알고리즘 스터디 페이지입니다.
 
 ## 7주차(5/17 ~ 5/21)
 
+*알고리즘 강의 링크*
+
+[정렬, 이분 탐색](https://youtu.be/bhfhrLjmIPk)
+
+[자료구조 - 리스트](추가예정)
+
+|   날짜   |                     브론즈                      |                        실버                        |                        골드                        |
+| :------: | :---------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: |
+| 5/17(월) | [수 정렬하기](https://acmicpc.net/problem/2750) |   [숫자 야구](https://acmicpc.net/problem/2503)    |  [감소하는 수](https://acmicpc.net/problem/1038)   |
+| 5/18(화) |  [애너그램](https://acmicpc.net/problem/6996)   |     [문자열](https://acmicpc.net/problem/1120)     |  [사다리 조작](https://acmicpc.net/problem/15684)  |
+| 5/19(수) |   [제곱근](https://acmicpc.net/problem/13706)   | [부분수열의 합](https://acmicpc.net/problem/1182)  |  [배열 돌리기](https://acmicpc.net/problem/17406)  |
+| 5/20(목) |   [수 찾기](https://acmicpc.net/problem/1920)   |   [안전 영역](https://acmicpc.net/problem/2468)    | [괄호 추가하기](https://acmicpc.net/problem/16637) |
+| 5/21(금) | [숫자 카드](https://acmicpc.net/problem/10815)  | [떡 먹는 호랑이](https://acmicpc.net/problem/2502) |   [벡터 매칭](https://acmicpc.net/problem/1007)    |
+
+## 8주차(5/24 ~ 5/29)
+
 | 날짜 | 브론즈 | 실버 | 골드 |
 | :--: | :----: | :--: | :--: |
 |      |        |      |      |
