@@ -1,0 +1,28 @@
+#include <stdio.h>
+#include <stdlib.h>
+#define max 1000
+int main()
+{   int i, arr[max]= {0}, temp, j, a;
+    scanf("%d",&a);
+
+    for(i=0; i < a; i++){
+        scanf("%d", &arr[i]);
+        }
+    for (i = 0; i < a; i++)
+	{
+		for (j = 0; j < a; j++)
+		{
+			if (arr[j] > arr[i])
+			{
+				temp = arr[j];
+				arr[j] = arr[i];
+				arr[i] = temp;
+			}
+		}
+	}
+	for (i = 0; i < a; i++)
+	{
+		printf("%d\n", arr[i]);
+	}
+    return 0;
+}
