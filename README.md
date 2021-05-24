@@ -99,9 +99,15 @@ Striking Arts 24기 알고리즘 스터디 페이지입니다.
 | 5/20(목) |   [수 찾기](https://acmicpc.net/problem/1920)   |   [안전 영역](https://acmicpc.net/problem/2468)    | [괄호 추가하기](https://acmicpc.net/problem/16637) |
 | 5/21(금) | [숫자 카드](https://acmicpc.net/problem/10815)  | [떡 먹는 호랑이](https://acmicpc.net/problem/2502) |   [벡터 매칭](https://acmicpc.net/problem/1007)    |
 
-## 8주차(5/24 ~ 5/29)
+## 8주차[완] (5/24 ~ 5/29)
 
-| 날짜 | 브론즈 | 실버 | 골드 |
-| :--: | :----: | :--: | :--: |
-|      |        |      |      |
+|   날짜   |                          브론즈                          |                      실버                      |                       골드                        |
+| :------: | :------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: |
+| 5/24(월) |    [어두운 굴다리](https://acmicpc.net/problem/17266)    | [반복 수열](https://acmicpc.net/problem/2331)  |    [연구소](https://acmicpc.net/problem/14502)    |
+| 5/25(화) |     [정수 제곱근](https://acmicpc.net/problem/2417)      | [늑대와 양](https://acmicpc.net/problem/16956) |  [아기 상어](https://acmicpc.net/problem/16236)   |
+| 5/26(수) |        [스택](https://acmicpc.net/problem/10828)         |  [바이러스](https://acmicpc.net/problem/2606)  |     [탈출](https://acmicpc.net/problem/3055)      |
+| 5/27(목) |   [고무오리 디버깅](https://acmicpc.net/problem/20001)   | [DFS와 BFS](https://acmicpc.net/problem/1260)  | [네트워크 연결](https://acmicpc.net/problem/1922) |
+| 5/28(금) | [도키도키 간식드리미](https://acmicpc.net/problem/12789) |   [토마토](https://acmicpc.net/problem/7576)   |   [최단경로](https://acmicpc.net/problem/1753)    |
+
+---
 
