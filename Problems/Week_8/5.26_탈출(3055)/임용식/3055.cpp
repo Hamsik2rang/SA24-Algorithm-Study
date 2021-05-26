@@ -97,28 +97,28 @@ int main()
 			{
 				if (i > 0)
 				{
-					if (dochi[i - 1][j] < water[i - 1][j])
+					if (!water[i - 1][j] || dochi[i - 1][j] < water[i - 1][j])
 					{
 						(answer == 0 || answer > dochi[i - 1][j]) ? answer = dochi[i - 1][j] : false;
 					}
 				}
 				if (i < r - 1)
 				{
-					if (dochi[i + 1][j] < water[i + 1][j])
+					if (!water[i + 1][j] || dochi[i + 1][j] < water[i + 1][j])
 					{
 						(answer == 0 || answer > dochi[i + 1][j]) ? answer = dochi[i + 1][j] : false;
 					}
 				}
 				if (j > 0)
 				{
-					if (dochi[i][j - 1] < water[i][j - 1])
+					if (!water[i][j - 1] || dochi[i][j - 1] < water[i][j - 1])
 					{
 						(answer == 0 || answer > dochi[i][j - 1]) ? answer = dochi[i][j - 1] : false;
 					}
 				}
 				if (j < c - 1)
 				{
-					if (dochi[i][j + 1] < water[i][j + 1])
+					if (!water[i][j + 1] || dochi[i][j + 1] < water[i][j + 1])
 					{
 						(answer == 0 || answer > dochi[i][j + 1]) ? answer = dochi[i][j + 1] : false;
 					}
