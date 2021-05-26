@@ -22,22 +22,26 @@ void BFS(int target[][50], int r, int c, int maxR, int maxC)
 		int curMinute = target[curRow][curColumn] + 1;
 		q.pop();
 
-		if (curRow > 0 && !rock[curRow - 1][curColumn] && !beaver[curRow - 1][curColumn] && (!target[curRow - 1][curColumn] || (target[curRow - 1][curColumn] != 0 && target[curRow - 1][curColumn] > curMinute)))
+		if (curRow > 0 && !rock[curRow - 1][curColumn] && !beaver[curRow - 1][curColumn] && (!target[curRow - 1][curColumn]
+			|| (target[curRow - 1][curColumn] != 0 && target[curRow - 1][curColumn] > curMinute)))
 		{
 			target[curRow - 1][curColumn] = curMinute;
 			q.push(make_pair(curRow - 1, curColumn));
 		}
-		if (curRow < maxR - 1 && !rock[curRow + 1][curColumn] && !beaver[curRow + 1][curColumn] && (!target[curRow + 1][curColumn] || (target[curRow + 1][curColumn] != 0 && target[curRow - 1][curColumn] > curMinute)))
+		if (curRow < maxR - 1 && !rock[curRow + 1][curColumn] && !beaver[curRow + 1][curColumn] && (!target[curRow + 1][curColumn]
+			|| (target[curRow + 1][curColumn] != 0 && target[curRow - 1][curColumn] > curMinute)))
 		{
 			target[curRow + 1][curColumn] = curMinute;
 			q.push(make_pair(curRow + 1, curColumn));
 		}
-		if (curColumn > 0 && !rock[curRow][curColumn - 1] && !beaver[curRow][curColumn - 1] && (!target[curRow][curColumn - 1] || (target[curRow][curColumn - 1] != 0 && target[curRow][curColumn - 1] > curMinute)))
+		if (curColumn > 0 && !rock[curRow][curColumn - 1] && !beaver[curRow][curColumn - 1] && (!target[curRow][curColumn - 1]
+			|| (target[curRow][curColumn - 1] != 0 && target[curRow][curColumn - 1] > curMinute)))
 		{
 			target[curRow][curColumn - 1] = curMinute;
 			q.push(make_pair(curRow, curColumn - 1));
 		}
-		if (curColumn < maxC - 1 && !rock[curRow][curColumn + 1] && !beaver[curRow][curColumn + 1] && (!target[curRow][curColumn + 1] || (target[curRow][curColumn + 1] != 0 && target[curRow][curColumn + 1] > curMinute)))
+		if (curColumn < maxC - 1 && !rock[curRow][curColumn + 1] && !beaver[curRow][curColumn + 1] && (!target[curRow][curColumn + 1]
+			|| (target[curRow][curColumn + 1] != 0 && target[curRow][curColumn + 1] > curMinute)))
 		{
 			target[curRow][curColumn + 1] = curMinute;
 			q.push(make_pair(curRow, curColumn + 1));
@@ -97,28 +101,28 @@ int main()
 			{
 				if (i > 0)
 				{
-					if (!water[i - 1][j] || dochi[i - 1][j] < water[i - 1][j])
+					if (dochi[i - 1][j] && (!water[i - 1][j] || dochi[i - 1][j] < water[i - 1][j]))
 					{
 						(answer == 0 || answer > dochi[i - 1][j]) ? answer = dochi[i - 1][j] : false;
 					}
 				}
 				if (i < r - 1)
 				{
-					if (!water[i + 1][j] || dochi[i + 1][j] < water[i + 1][j])
+					if (dochi[i + 1][j] && (!water[i + 1][j] || dochi[i + 1][j] < water[i + 1][j]))
 					{
 						(answer == 0 || answer > dochi[i + 1][j]) ? answer = dochi[i + 1][j] : false;
 					}
 				}
 				if (j > 0)
 				{
-					if (!water[i][j - 1] || dochi[i][j - 1] < water[i][j - 1])
+					if (dochi[i][j - 1] && (!water[i][j - 1] || dochi[i][j - 1] < water[i][j - 1]))
 					{
 						(answer == 0 || answer > dochi[i][j - 1]) ? answer = dochi[i][j - 1] : false;
 					}
 				}
 				if (j < c - 1)
 				{
-					if (!water[i][j + 1] || dochi[i][j + 1] < water[i][j + 1])
+					if (dochi[i][j + 1] && (!water[i][j + 1] || dochi[i][j + 1] < water[i][j + 1]))
 					{
 						(answer == 0 || answer > dochi[i][j + 1]) ? answer = dochi[i][j + 1] : false;
 					}
